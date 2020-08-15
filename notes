@@ -1,0 +1,24 @@
+https://github.com/r-barnes/ArcRasterRescue
+https://github.com/r-barnes/ArcRasterRescue/blob/master/main.cpp
+https://github.com/r-barnes/ArcRasterRescue/blob/master/arr.cpp
+https://github.com/r-barnes/ArcRasterRescue/blob/master/arr.hpp
+https://github.com/rouault/dump_gdbtable/wiki/FGDB-Spec
+https://github.com/rouault/dump_gdbtable/blob/ad881a4bc17f6e0c57538f8c16bed66a6254db26/dump_gdbtable.py#L63
+https://lists.osgeo.org/pipermail/gdal-dev/2016-July/044761.html
+https://gobyexample.com/reading-files
+https://stackoverflow.com/questions/14514201/how-to-read-a-binary-file-in-go
+https://golang.org/pkg/os/#File.Stat
+https://golang.org/pkg/encoding/binary/#pkg-variables
+https://golang.org/pkg/bytes/
+https://golang.org/pkg/io/ioutil/#ReadFile
+https://golang.org/src/os/example_test.go
+https://docs.python.org/3/tutorial/inputoutput.html
+https://docs.python.org/3/library/struct.html#format-characters
+https://stackoverflow.com/questions/7380158/how-to-convert-4uint8-into-uint32-in-go
+https://stackoverflow.com/questions/47558389/what-is-the-go-equivalent-to-assert-in-c
+https://yourbasic.org/golang/bitwise-operator-cheat-sheet/
+https://github.com/r-barnes/ArcRasterRescue/blob/2f4140e9d209355e543fc1aeba40b689e3dc3059/arr.cpp#L267
+
+
+TODO:
+1) create the mastertable function, line 582 in arr.cpp
